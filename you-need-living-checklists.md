@@ -42,7 +42,7 @@ Why not give it a try for a month or so? See if your team likes it and it produc
 - Agreeing the deliverables based on wireframes.
 - Making sure that features are documented, delivered to the users, and users know how to (training) and can use (permissions) the feature. See also:
     - [Your documentation is everything](your-documentation-is-everything.md)
-    - [Demonstrate and deliver - getting use out of your features](demonstrate-and-deliver.md)
+    - [Demonstrate and deliver - getting use out of your features](demo-and-deliver.md)
 
 ### New hires
 
