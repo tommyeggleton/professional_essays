@@ -26,9 +26,9 @@ There are lots of points to review and consider adding steps to your checklist. 
 
 Often it’s better to have an itchy trigger finger and add a step to the process, even if it’s just for a couple of projects, to prove or disprove its usefulness quickly. That’s better than spending too long weighing the pros and cons of a new step and getting stuck in dogmatism. If someone has an idea and it’s not obviously fatally flawed, add it to the process for a while to learn by doing
 
-There are other great benefits to a process driven with living checklists. For one, having a checklist which must be completed step-by-step allows your team to manage projects without the need for infernal project status updates and the ringing around the houses to get that update. You know who needs to do what when.
+There are other marvellous benefits to a process supported with living checklists. For one, having a checklist which must be completed step-by-step allows your team to manage projects without the need for infernal project status updates and the ringing around the houses to get that update. You know who needs to do what when.
 
-This is perfectly compatible with Kanban (my personal preference) and any Agile methodology. In fact, a proper “definition of done” is essential to Kanban and living checklists are an evolving definition of done and safety rails all in one. 
+This is perfectly compatible with Kanban (my personal preference for project-management) and any Agile methodology. In fact, a proper “definition of done” is essential to Kanban; living checklists are both an evolving definition of done and safety rails all in one. 
 
 Why not give it a try for a month or so? See if your team likes it and it produces more and higher quality work. It’s the easiest thing in the world to throw the checklist away if it does no good. 
 
